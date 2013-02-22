@@ -1,0 +1,19 @@
+README.txt
+setup.py
+src/run_student.py
+src/run_teacher.py
+src/src_eds/__init__.py
+src/src_eds/dicBrowse.py
+src/src_eds/dicEntry.py
+src/src_eds/dicQuiz.py
+src/src_eds/starter.py
+src/src_edt/__init__.py
+src/src_edt/dicEdit.py
+src/src_edt/dicEntry.py
+src/src_edt/elements.py
+src/src_edt/starter.py
+src/src_edt/starter.py
+recursive-include src *.py
+recursive-include doc *
+recursive-include resource *
+prune build
